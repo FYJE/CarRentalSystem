@@ -49,7 +49,7 @@ Requires a C++11-compatible compiler
 
 ## Author
 
-HAMZA  
+FYJE  
 Electrical & Computer Engineering  
 Passionate about modular design, digital logic, and code optimization
 EOF

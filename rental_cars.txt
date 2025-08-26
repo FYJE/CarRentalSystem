@@ -1,0 +1,1 @@
+Customer: ahmad, Car: toyota tow (2), Days: 10, Total Cost: 150.000000

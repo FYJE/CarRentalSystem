@@ -1,0 +1,1 @@
+Customer: hamza, Car: mazda five (123), Days: 10, Total Cost: 250.000000

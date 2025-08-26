@@ -1,0 +1,2 @@
+123 mazda five 2020 25 petrol 0 3000
+124 Toyota third 2025 50 electric 10000 0
